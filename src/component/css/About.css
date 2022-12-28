@@ -1,0 +1,24 @@
+.site-card-wrapper {
+    padding: 30px;
+    background: #ececec;
+  }
+  
+  [data-theme="dark"] .site-card-wrapper {
+    background: #303030;
+  }
+
+.line {
+  width: 20%;
+  text-align: center;
+  margin-left: 40%;
+}
+
+.list {
+  white-space: pre-wrap;
+}
+
+.Ims {
+  max-width: 30%;
+  height: auto;
+  display: block;
+}
