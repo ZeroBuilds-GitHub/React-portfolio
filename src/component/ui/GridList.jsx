@@ -6,7 +6,7 @@ import '../css/About.css';
 
 const GridExampleCelled = (props) => (
     <div className="site-card-wrapper">
-        <Card title={props.title} bordered={false} style={{width: "80%", left:"10%"}}>
+        <Card title={props.title} bordered={false} >
             <Row gutter={30}>
                 <Col span={10}>
                     <Image className='Ims' src={props.Img} />
