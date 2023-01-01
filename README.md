@@ -1,4 +1,4 @@
-# zerobuilds-portfoli 
+# zerobuilds-portfolio
 https://zerobuilds-portfolio.netlify.app/
 
 # Getting Started with Create React App
