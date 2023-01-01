@@ -4,7 +4,7 @@ import '../css/About.css';
 
 const lang = 'JAVA\n JavaScript\n  Python\n  C#';
 const front = 'HTML5\n CSS\n React\n BootStrap';
-const back = '\n Node js\n JSP\n Spring\n \n';
+const back = 'Node js\n JSP\n Spring\n \n';
 const db = 'MariaDB\n Oracle\n MsSql\n';
 const tool = 'Eclipse\n Visual Studio\n Visual Studio Code';
 const cloud = '\n Ubuntu\n \n';
